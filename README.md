@@ -1,1 +1,1 @@
-# desafio-tag
+# API funcional de uma loja, utilizando MongoDB.
